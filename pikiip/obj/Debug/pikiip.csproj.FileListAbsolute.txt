@@ -1,0 +1,138 @@
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\csc.exe
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\csc.exe.config
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\csc.rsp
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\csi.exe
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\csi.rsp
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\System.AppContext.dll
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\System.Collections.Immutable.dll
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\System.IO.FileSystem.dll
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\vbc.exe
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\vbc.exe.config
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\vbc.rsp
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\VBCSCompiler.exe
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\roslyn\VBCSCompiler.exe.config
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\pikiip.dll.config
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\pikiip.dll
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\pikiip.pdb
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\obj\Debug\pikiip.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\obj\Debug\pikiip.dll
+c:\users\aluno\documents\visual studio 2017\Projects\pikiip\pikiip\obj\Debug\pikiip.pdb
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\obj\Debug\pikiip.csprojResolveAssemblyReference.cache
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\obj\Debug\pikiip.csproj.CoreCompileInputs.cache
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\obj\Debug\pikiip.dll
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\obj\Debug\pikiip.pdb
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\csc.exe
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\csc.exe.config
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\csc.rsp
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\csi.exe
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\csi.rsp
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\System.AppContext.dll
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\System.Collections.Immutable.dll
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\System.IO.FileSystem.dll
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\System.Reflection.Metadata.dll
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\vbc.exe
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\vbc.exe.config
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\vbc.rsp
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\VBCSCompiler.exe
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\roslyn\VBCSCompiler.exe.config
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\pikiip.dll.config
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\pikiip.dll
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\pikiip.pdb
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\facul felipe\2semestre\pikiip\pikiip\pikiip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\pikiip\pikiip\pikiip\bin\roslyn\csc.exe
+E:\pikiip\pikiip\pikiip\bin\roslyn\csc.exe.config
+E:\pikiip\pikiip\pikiip\bin\roslyn\csc.rsp
+E:\pikiip\pikiip\pikiip\bin\roslyn\csi.exe
+E:\pikiip\pikiip\pikiip\bin\roslyn\csi.rsp
+E:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\pikiip\pikiip\pikiip\bin\roslyn\System.AppContext.dll
+E:\pikiip\pikiip\pikiip\bin\roslyn\System.Collections.Immutable.dll
+E:\pikiip\pikiip\pikiip\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\pikiip\pikiip\pikiip\bin\roslyn\System.IO.FileSystem.dll
+E:\pikiip\pikiip\pikiip\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\pikiip\pikiip\pikiip\bin\roslyn\System.Reflection.Metadata.dll
+E:\pikiip\pikiip\pikiip\bin\roslyn\vbc.exe
+E:\pikiip\pikiip\pikiip\bin\roslyn\vbc.exe.config
+E:\pikiip\pikiip\pikiip\bin\roslyn\vbc.rsp
+E:\pikiip\pikiip\pikiip\bin\roslyn\VBCSCompiler.exe
+E:\pikiip\pikiip\pikiip\bin\roslyn\VBCSCompiler.exe.config
+E:\pikiip\pikiip\pikiip\bin\pikiip.dll.config
+E:\pikiip\pikiip\pikiip\bin\pikiip.dll
+E:\pikiip\pikiip\pikiip\bin\pikiip.pdb
+E:\pikiip\pikiip\pikiip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\pikiip\pikiip\pikiip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\pikiip\pikiip\pikiip\obj\Debug\pikiip.dll
+E:\pikiip\pikiip\pikiip\obj\Debug\pikiip.pdb
+E:\pikiip\pikiip\pikiip\obj\Debug\pikiip.csprojResolveAssemblyReference.cache
+D:\pikiip\pikiip\pikiip\bin\roslyn\csc.exe
+D:\pikiip\pikiip\pikiip\bin\roslyn\csc.exe.config
+D:\pikiip\pikiip\pikiip\bin\roslyn\csc.rsp
+D:\pikiip\pikiip\pikiip\bin\roslyn\csi.exe
+D:\pikiip\pikiip\pikiip\bin\roslyn\csi.rsp
+D:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\pikiip\pikiip\pikiip\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\pikiip\pikiip\pikiip\bin\roslyn\System.AppContext.dll
+D:\pikiip\pikiip\pikiip\bin\roslyn\System.Collections.Immutable.dll
+D:\pikiip\pikiip\pikiip\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\pikiip\pikiip\pikiip\bin\roslyn\System.IO.FileSystem.dll
+D:\pikiip\pikiip\pikiip\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\pikiip\pikiip\pikiip\bin\roslyn\System.Reflection.Metadata.dll
+D:\pikiip\pikiip\pikiip\bin\roslyn\vbc.exe
+D:\pikiip\pikiip\pikiip\bin\roslyn\vbc.exe.config
+D:\pikiip\pikiip\pikiip\bin\roslyn\vbc.rsp
+D:\pikiip\pikiip\pikiip\bin\roslyn\VBCSCompiler.exe
+D:\pikiip\pikiip\pikiip\bin\roslyn\VBCSCompiler.exe.config
+D:\pikiip\pikiip\pikiip\bin\pikiip.dll.config
+D:\pikiip\pikiip\pikiip\bin\pikiip.dll
+D:\pikiip\pikiip\pikiip\bin\pikiip.pdb
+D:\pikiip\pikiip\pikiip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\pikiip\pikiip\pikiip\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\pikiip\pikiip\pikiip\obj\Debug\pikiip.csprojResolveAssemblyReference.cache
+D:\pikiip\pikiip\pikiip\obj\Debug\pikiip.csproj.CoreCompileInputs.cache
+D:\pikiip\pikiip\pikiip\obj\Debug\pikiip.dll
+D:\pikiip\pikiip\pikiip\obj\Debug\pikiip.pdb
